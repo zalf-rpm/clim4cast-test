@@ -26,7 +26,7 @@
 	"include-file-base-path": "data/params/",
 	
 	"output": { 
-	  "write-file?": false,
+	  "write-file?": true,
 		"file-name": "out.csv",
 	
 		"csv-options": {
